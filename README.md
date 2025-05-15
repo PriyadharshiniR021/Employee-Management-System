@@ -180,7 +180,7 @@ The Employee Management System provides a foundational yet robust solution for d
 
 ![image alt](https://github.com/PriyadharshiniR021/Employee-Management-System/blob/c61de43e260517c880bcd6ae8ddc9ad9b630bb13/display.png)
 
-![image alt]()
+![image alt](https://github.com/PriyadharshiniR021/Employee-Management-System/blob/a616495bf54f512ee907e0651b121921eb74913b/deleting%20by%20id.png)
 
 ![image alt]()
 
