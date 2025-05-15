@@ -178,7 +178,7 @@ The Employee Management System provides a foundational yet robust solution for d
 
 ![image alt](https://github.com/PriyadharshiniR021/Employee-Management-System/blob/b7dd3a3ef008e713cf023eb206ef03b53572f0e3/added%20successfully.png)
 
-![image alt]()
+![image alt](https://github.com/PriyadharshiniR021/Employee-Management-System/blob/c61de43e260517c880bcd6ae8ddc9ad9b630bb13/display.png)
 
 ![image alt]()
 
