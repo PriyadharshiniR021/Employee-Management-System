@@ -164,11 +164,7 @@ INSERT INTO employee VALUES
 
 ---
 
-**12. Conclusion**
-
-The Employee Management System provides a foundational yet robust solution for desktop-based data management. With key CRUD operations, real-time feedback, and an intuitive interface, it is ideal for students, academic projects, and organizations needing a lightweight employee tracking solution. Future updates can further scale the application with modern UI/UX and extended functionality.
-
-**13. outputs**
+**12. outputs**
 
 ![image alt](https://github.com/PriyadharshiniR021/Employee-Management-System/blob/27b3e22ab334344696c8c78078c6f052f8d92280/login.png)
 
@@ -186,3 +182,8 @@ The Employee Management System provides a foundational yet robust solution for d
 
 ![image alt](https://github.com/PriyadharshiniR021/Employee-Management-System/blob/b4b0d066e1033bd76a37e969bf132a471aa2c2bd/display%20after%20delete.png)
 
+---
+
+**13. Conclusion**
+
+The Employee Management System provides a foundational yet robust solution for desktop-based data management. With key CRUD operations, real-time feedback, and an intuitive interface, it is ideal for students, academic projects, and organizations needing a lightweight employee tracking solution. Future updates can further scale the application with modern UI/UX and extended functionality.
